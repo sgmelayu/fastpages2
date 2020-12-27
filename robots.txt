@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://sgmelayu.github.io/fastpages2/sitemap.xml
